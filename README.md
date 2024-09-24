@@ -1,1 +1,1 @@
-## project
+## This project demonstrates the process of selecting, building, and evaluating a machine learning model to predict customer churn. The goal is to identify customers at risk of leaving and provide actionable insights to help mitigate this risk.
